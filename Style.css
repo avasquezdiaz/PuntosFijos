@@ -1,0 +1,37 @@
+
+nav{
+    background-color: black;
+    height: 100%;
+    width: 300px;
+}
+.logo{
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 80px;
+    border: solid 2px #ffD000;
+}
+span{
+    font-size: 15px;
+}
+
+
+/*img{
+    border-color: gold;
+    
+
+}
+
+#larga{
+
+   display: flex;
+}
+.textos{
+    width: 1100px;
+    background-color: brown;
+    position: relative;
+    top: 230px;
+    right: 170px;
+display: flex;
+    color: aquamarine;
+    text-align: center;
+}*/
